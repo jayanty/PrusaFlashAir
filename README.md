@@ -10,10 +10,10 @@ A lot of the backend heavy lifting is done using this codebase (https://github.c
 
 Setup
 1. Create a local folder that will be kept in sync with the SD card
-2. Download the ZIP file to your computer and extract contents to a place where you want to save the script
+2. Download the ZIP file to your computer and extract contents to a place where you want to save the Automator script
 3. Open Automator on the Mac and start a new project
 4. Choose type as Folder Action for the document and click on Open an Existing Document
-5. Navigate to where you extracted the contents of the ZIP file and select the package SyncToSD
+5. Navigate to where you extracted the contents of the ZIP file earlier and select the package SyncToSD
 6. Automator opens a window showing the project code: On top of this window you need to use the drop down to choose the folder you have designated as your local synced folder 
 7. At the start of the script, customize the variables for your environment
 8. Save the project and its ready to use
